@@ -44,7 +44,7 @@ body {
 
 header {
   box-shadow: var(--header-shadow);
-  background-color:#030033
+  background-color: orange;
 }
 
 .logo {
