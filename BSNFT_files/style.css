@@ -8,10 +8,10 @@
   --font-primary: 'Permanent Marker', sans-serif;
   --font-secondary: 'Kanit', serif;
   --font-code: 'Permanent Marker', monospace;
-  --bg-color: #222256;
-  --font-color: #ffffff;
-  --btn-bg-color: #ffffff;
-  --btn-bg-color-secondary: #ff0ad9;
+  --bg-color: white;
+  --font-color: black;
+  --btn-bg-color: orange;
+  --btn-bg-color-secondary: red;
   --accent-color: #35cc34;
   --accent-color-secondary: #ffffff;
   --header-shadow: #000 0px 0px 5px;
